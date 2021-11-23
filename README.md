@@ -5,7 +5,7 @@ Render graph configuration file parser to make programming with low-level graphi
 [![Build Status](https://app.travis-ci.com/jimbi-o/rendergraph-parser.svg?branch=main)](https://app.travis-ci.com/jimbi-o/rendergraph-parser)
 [![Build status](https://ci.appveyor.com/api/projects/status/ngh5gtlhknig977l?svg=true)](https://ci.appveyor.com/project/jimbi-o/rendergraph-parser)
 [![codecov](https://codecov.io/gh/jimbi-o/rendergraph-parser/branch/main/graph/badge.svg?token=JO6HS1T7C6)](https://codecov.io/gh/jimbi-o/rendergraph-parser)
-[![Coverity Scan Build Status](https://scan.coverity.com/projects/24132/badge.svg)](https://scan.coverity.com/projects/jimbi-o-rendergraph-parser)
+[![Coverity Scan Build Status](https://scan.coverity.com/projects/24136/badge.svg)](https://scan.coverity.com/projects/jimbi-o-rendergraph-parser)
 
 ## make & build (&run) locally examples
 
