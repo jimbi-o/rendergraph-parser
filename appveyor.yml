@@ -13,5 +13,5 @@ before_build:
     cmake -S . -B build -DBUILD_WITH_TEST=ON
 
 build:
-  project: build\minimalcpppj.sln
+  project: build\rendergraphparser.sln
   verbosity: normal

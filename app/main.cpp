@@ -1,4 +1,4 @@
-#include "minimalcpppj/minimalcpppj.h"
+#include "rendergraphparser/rendergraphparser.h"
 int main([[maybe_unused]] int argc, [[maybe_unused]] char* argv[]) {
   return 0;
 }
